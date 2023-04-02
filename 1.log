@@ -1,0 +1,3 @@
+ERROR root 2023-04-02 22:29:54,102 invalid literal for int() with base 10: 'asdfasd'
+INFO root 2023-04-02 22:29:54,108 please enter a string1
+INFO root 2023-04-02 22:29:54,109 please enter a string2
